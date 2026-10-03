@@ -21,4 +21,4 @@ To foster a culture of open collaboration at IIST by building and maintaining op
 
 ## Contact
 
-Email: <!-- add address -->
+Email: iistsrphelp@gmail.com
